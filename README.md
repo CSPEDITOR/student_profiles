@@ -1,2 +1,2 @@
 # student_profiles
-it is simple web page of signup and login using only html and css 
+this is simple web page for showing student details , using html,css,js,php and mysql .
