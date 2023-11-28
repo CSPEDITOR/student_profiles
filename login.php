@@ -18,14 +18,16 @@
                 <div class="titile">
                     LOGIN  
                 </div>
-                <form action="">
+                <form action="post">
                     User name :
                     <input type="email" placeholder="Enter your email">
                     password :
                     <input type="password" placeholder="Enter your password">
                     <button>Login</button>
-                    <button>forget password</button>
-                    <button>sign Up</button>
+                    <div class="buttons">
+                        <button>forget password</button>
+                        <button>sign Up</button>
+                    </div>
                 </form>
             </div>
         </div>
